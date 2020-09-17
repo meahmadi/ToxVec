@@ -10,9 +10,9 @@ Venom is a mixture of substances produced by a venomous organism aiming at preyi
 
 Please use python 3.x.x to run ToxVec. The requirement for using ToxVec can be installed using the following `pip` command:
 
-'''
+```
 pip install -r installation/requirements.txt
-''''
+```
 
 ### Download the model files
 
@@ -24,18 +24,19 @@ Replace `YYY` with numbers from 1 to 10 to dowload 10 ToxVec models
 ```
 
 #### Download Script in Linux
-or if you are using a linux machine call the following download the models:
+or if you are using a linux\mac os machine call the following scripts to download the models:
 
 ```
+For Linux:
+
 bash dowload_linux.sh
-```
 
+For Mac OS:
 
-#### Download Script in Mac OSx
-
-```
 bash dowload_macos.sh
+
 ```
+
 
 ## Example Running
 
